@@ -1,7 +1,7 @@
 @import "tailwindcss";
 @import url('https://fonts.googleapis.com/css2?family=Overpass:ital,wght@0,100..900;1,100..900&display=swap');
 
-@theme {
+ @theme {
   --color-very-dark-blue: #131518;
   --color-dark-blue: #262E38;
   --color-light-grey: #969FAD;
