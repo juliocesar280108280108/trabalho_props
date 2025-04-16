@@ -13,3 +13,5 @@ export function CardFinal({ rateNote }) {
       </div>
     )
 }
+
+// teste
